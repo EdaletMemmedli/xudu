@@ -4,7 +4,9 @@ html *{
     box-sizing: border-box;
 }
 
-.container{}
+.container{
+    width:100%;
+}
 .container-middle{
     width: 90%;
     margin:0 auto;
